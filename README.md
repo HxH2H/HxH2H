@@ -16,4 +16,4 @@ I am a researcher at Korea Electronics Technology Institute (KETI) and an M.S. s
 
 ## Contact
 
-Email: [gnstmahs@gmail.com
+Email: [gnstmahs@gmail.com]
